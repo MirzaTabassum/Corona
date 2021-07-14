@@ -1,0 +1,25 @@
+.header 
+{
+	padding: 20px;
+	height: 100vh;
+	background: url(https://einsteinperspectives.com/wp-content/uploads/2020/02/Coronavirus-1.jpg) no-repeat center center;
+	background-size: cover;
+	position: relative;
+}
+
+.header	h1
+	{
+			margin: 0;
+			font-weight: 900;
+			font-size: 3rem;
+			text-align: center;
+			color: #fff;
+			margin-bottom: 20px;
+	}
+	.header .content 
+	{
+		position: relative;
+		top: 50%;
+		transform: translateY(-50%);
+		text-align: center;
+	}
